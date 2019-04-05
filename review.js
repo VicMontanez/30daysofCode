@@ -8,7 +8,7 @@ function processData(input) {
 
         var even = '';
         var odd = ''; 
-        var even = 'even';
+        
 
         for (x = 0; x < splitWord.length; x++) {
             if (x % 2 === 0) {
